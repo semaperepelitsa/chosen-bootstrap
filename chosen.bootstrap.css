@@ -18,6 +18,9 @@
     font-size: 14px;
     position: relative;
     vertical-align: middle;
+}
+
+.chosen-container:not(.chosen-auto-width) {
     width: 100% !important;
 }
 
